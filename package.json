@@ -2,8 +2,9 @@
   "name": "final-project-visualization",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://beench.github.io/",
+  "homepage": "https://beench.github.io/stat-final-project-ministry-of-finance",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
