@@ -11,19 +11,54 @@
   pointer-events: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Header {
+  min-height: 45vh;
+  /* background-color: #e3c7c7; */
+  background-image: url("./components/pic/money.png");
+  background-repeat: no-repeat;
+  background-size: cover; 
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.App-header {
+  /* background-color: #282c34; */
+  /* min-height: 15vh; */
+  
+  font-size: calc(50px + 2vmin);
+  color: white;
+}
+
+.App-subheader {
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.Body {
+  margin-top: 5%;
+  padding: 0 20% 0 20%;
+  font-size: calc(5px + 2vmin);
+}
+
+.description {
+  text-align: left;
+  padding: 0 5% 0 5%;
+}
+
+.container-card {
+  font-size: calc(5px + 2vmin);
+  margin: 5% auto 5% auto;
+  text-align: center;
+}
+
+.container-chart {
+  margin: 0 auto 0 auto;
+}
+
+.footer {
+  height: 20vh;
 }
 
 @keyframes App-logo-spin {
