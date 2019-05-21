@@ -1,9 +1,8 @@
 import React from "react";
 import "./App.css";
-import BKKStackChart from "./components/BKKStackChart";
-// import LineBudget from "./components/Regression/LinearRegression";
 import Regression from "./components/Regression/Regression"
-import FeatureSelection from "./components/Feture Selection/FeatureSelection";
+import FeatureSelection from "./components/Feature Selection/FeatureSelection";
+import DataSource from "./components/Data Source/DataSource"
 
 function App() {
   return (
@@ -15,6 +14,7 @@ function App() {
       <div className="Body">
         <FeatureSelection />
         <Regression />
+        <DataSource />
       </div>
       <div className="footer"></div>
     </div>

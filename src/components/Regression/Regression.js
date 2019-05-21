@@ -29,10 +29,11 @@ export default class Regression extends React.Component {
             <br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;สมการคือ y
             = 0.9954*XPMQA + 8.4934*XCGD + 1.1838*XExcise + 0.3289*XPDMO + 8115.2423
+            <br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;จากกราฟจะพบว่าโมเดลสามารถทำนายได้ใกล้เคียงกับค่าจริงมาก
           </p>
         </div>
         <LinearRegression />
-        <p className="description"> จากกราฟจะพบว่าโมเดลสามารถทำนายได้ใกล้เคียงกับค่าจริงมาก</p>
       </React.Fragment>
     );
   }
