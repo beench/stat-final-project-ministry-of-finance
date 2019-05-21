@@ -38,6 +38,7 @@
 
 .Body {
   margin-top: 5%;
+  margin-bottom: 5%;
   padding: 0 20% 0 20%;
   font-size: calc(5px + 2vmin);
 }
@@ -55,10 +56,6 @@
 
 .container-chart {
   margin: 0 auto 0 auto;
-}
-
-.footer {
-  height: 20vh;
 }
 
 @keyframes App-logo-spin {

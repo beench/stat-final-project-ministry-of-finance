@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css?family=Prompt&display=swap'); */
+
+body {
+  min-height: 100%;
+  position: relative;
+  padding-bottom: 155px;
+}
+
+.footer {
+  background-color: #bfc3bd;
+  font-family: 'Prompt', sans-serif;
+  height: 130px;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  text-align: center;
+  padding-top: 25px;
+}
