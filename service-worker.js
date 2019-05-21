@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stat-final-project-ministry-of-finance/precache-manifest.996e4d2aba75c06b0697e8f3b9431edc.js"
+  "/stat-final-project-ministry-of-finance/precache-manifest.5e3ce997b76085ede45f82320f46b14f.js"
 );
 
 self.addEventListener('message', (event) => {

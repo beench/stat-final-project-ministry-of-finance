@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/stat-final-project-ministry-of-finance/static/css/main.1708b060.chunk.css",
-    "main.js": "/stat-final-project-ministry-of-finance/static/js/main.c36d3040.chunk.js",
-    "main.js.map": "/stat-final-project-ministry-of-finance/static/js/main.c36d3040.chunk.js.map",
+    "main.css": "/stat-final-project-ministry-of-finance/static/css/main.085c8e98.chunk.css",
+    "main.js": "/stat-final-project-ministry-of-finance/static/js/main.5eef0469.chunk.js",
+    "main.js.map": "/stat-final-project-ministry-of-finance/static/js/main.5eef0469.chunk.js.map",
     "runtime~main.js": "/stat-final-project-ministry-of-finance/static/js/runtime~main.a35fb333.js",
     "runtime~main.js.map": "/stat-final-project-ministry-of-finance/static/js/runtime~main.a35fb333.js.map",
     "static/js/2.f97252ee.chunk.js": "/stat-final-project-ministry-of-finance/static/js/2.f97252ee.chunk.js",
     "static/js/2.f97252ee.chunk.js.map": "/stat-final-project-ministry-of-finance/static/js/2.f97252ee.chunk.js.map",
     "index.html": "/stat-final-project-ministry-of-finance/index.html",
-    "precache-manifest.996e4d2aba75c06b0697e8f3b9431edc.js": "/stat-final-project-ministry-of-finance/precache-manifest.996e4d2aba75c06b0697e8f3b9431edc.js",
+    "precache-manifest.5e3ce997b76085ede45f82320f46b14f.js": "/stat-final-project-ministry-of-finance/precache-manifest.5e3ce997b76085ede45f82320f46b14f.js",
     "service-worker.js": "/stat-final-project-ministry-of-finance/service-worker.js",
-    "static/css/main.1708b060.chunk.css.map": "/stat-final-project-ministry-of-finance/static/css/main.1708b060.chunk.css.map",
+    "static/css/main.085c8e98.chunk.css.map": "/stat-final-project-ministry-of-finance/static/css/main.085c8e98.chunk.css.map",
     "static/media/App.css": "/stat-final-project-ministry-of-finance/static/media/money.2d5f65e7.png"
   }
 }
