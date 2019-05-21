@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c05800e055ae5cd82c8e033046e3be1",
+    "revision": "0a54be5494003eeb5e433d0952145581",
     "url": "/stat-final-project-ministry-of-finance/index.html"
   },
   {
-    "revision": "9f390c6b38e21f19d507",
-    "url": "/stat-final-project-ministry-of-finance/static/css/main.e9865e11.chunk.css"
+    "revision": "adc9f6438def8afe746f",
+    "url": "/stat-final-project-ministry-of-finance/static/css/main.1708b060.chunk.css"
   },
   {
-    "revision": "caf1af64e04f755cf486",
-    "url": "/stat-final-project-ministry-of-finance/static/js/2.ad998bf8.chunk.js"
+    "revision": "211283892276e7cea823",
+    "url": "/stat-final-project-ministry-of-finance/static/js/2.f97252ee.chunk.js"
   },
   {
-    "revision": "9f390c6b38e21f19d507",
-    "url": "/stat-final-project-ministry-of-finance/static/js/main.701e2c29.chunk.js"
+    "revision": "adc9f6438def8afe746f",
+    "url": "/stat-final-project-ministry-of-finance/static/js/main.c36d3040.chunk.js"
   },
   {
     "revision": "a6be993aee09977a37a3",
